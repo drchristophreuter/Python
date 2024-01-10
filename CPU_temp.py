@@ -1,3 +1,6 @@
+# Beispiel zum auslesen der CPU Temperatur
+# Dr. Christoph Reuter 1/2024
+
 import psutil
 
 def get_cpu_temperature():
